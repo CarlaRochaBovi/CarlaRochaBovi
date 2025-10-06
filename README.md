@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou Carla!</h1>
+<h1 align="center">👋 Olá, eu sou a Carla Rocha Bovi!</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🌱 Aprendendo e criando projetos todos os dias <br/>
-  🚀 Apaixonado por tecnologia, design limpo e soluções criativas
+  💻 Desenvolvedora Full Stack | 🌱 Aprendendo e criando projetos todos os dias <br/>
+  🚀 Apaixonada por tecnologia, design limpo e soluções criativas
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔭 Atualmente trabalhando em projetos com **React**, **TypeScript**, **Node.js** e **PostgreSQL**
+- 🔭 Trabalhando em projetos com **React**, **TypeScript**, **Node.js** e **PostgreSQL**
 - 💡 Interesses: Desenvolvimento Web, UI/UX, Automação e Integração de Sistemas
-- ⚙️ Sempre buscando boas práticas, performance e código limpo
+- ⚙️ Foco em boas práticas, performance e código limpo
 
 ---
 
@@ -37,18 +37,40 @@
 
 ---
 
+### 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**in.orbit**](https://github.com/CarlaRochaBovi/in.orbit) | Aplicação para controle de hábitos e metas pessoais, com interface moderna e intuitiva. | React, TypeScript, TailwindCSS, Node.js, Fastify |
+| [**project-flow**](https://github.com/CarlaRochaBovi/project-flow) | Sistema de gerenciamento de projetos com API CRUD e banco de dados Dockerizado. | React, TypeScript, Node.js, PostgreSQL, Drizzle ORM |
+| [**task-manager**](https://github.com/CarlaRochaBovi/task-manager) | Lista de tarefas com persistência local e foco em produtividade. | React, TypeScript, Shadcn UI |
+
+> 💡 *Esses projetos refletem meu foco em desenvolvimento full stack, design limpo e experiência do usuário.*
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlaRochaBovi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaRochaBovi&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlaRochaBovi&show_icons=true&theme=radical&hide=issues,contribs" alt="CarlaRochaBovi's GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaRochaBovi&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-
+<p align="center">
+  <a href="https://linkedin.com/in/CarlaRochaBovi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:carlabovi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://CarlaRochaBovi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
