@@ -28,7 +28,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
 
 #### 🧰 Outras
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,10 +51,10 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/CarlaRochaBovi" target="_blank">
+  <a href="https://www.linkedin.com/in/carla-rocha-bovi-91a859250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:carlabovi@gmail.com">
+  <a href="mailto:carlarochabovi08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://CarlaRochaBovi.github.io" target="_blank">
