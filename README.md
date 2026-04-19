@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlaRochaBovi&show_icons=true&theme=radical&hide=issues,contribs" alt="CarlaRochaBovi's GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaRochaBovi&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <p align="center">
